@@ -65,9 +65,6 @@ print("Hello World! My name is \(name) and my pennId is \(pennId)")
 ```
 - Click the play button to compile and run.
 
-Your playground should look like this:
-![](/apps/app-0/assets/fig4.png?raw=true)
-
 Congrats! You just ran your first line of Swift 🎉🎉🎉
 
 **DON’T FORGET:** Submit `app0_lastname_firstname.playground` on Canvas before the next class.
