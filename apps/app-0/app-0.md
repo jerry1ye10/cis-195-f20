@@ -6,7 +6,7 @@ Please leave feedback by creating a GitHub issue or by posting on Piazza.
 **Expected Duration:** 10-15 minutes of engagement. 1+ hours of installing & updating software if required.
 
 
-**Deadline:** Thursday, January 23rd at **4:20pm** 🤖
+**Deadline:** Thursday, September 10th at **4:20pm** 🤖
 
 - - - -
 
@@ -27,10 +27,10 @@ Please leave feedback by creating a GitHub issue or by posting on Piazza.
 
 ## Install Xcode
 1. Make sure you are running at least **MacOS Mojave 10.14.4.** **Catalina is preferred.** If you are not, update your OS from the Mac App Store. This version is required for the version of Xcode we use. Not all Macs can run this version, check that yours can [with this list](http://osxdaily.com/2018/06/05/macos-mojave-compatible-macs-list/).
-![](/apps/app-0/assets/fig1.png?raw=true)
-3. Go to the Mac App Store and install Xcode. If you have Xcode already, make sure it is updated to version **11.3**.
-![](/apps/app-0/assets/fig2.png?raw=true)
+3. Go to the Mac App Store and install Xcode. If you have Xcode already, make sure it is atleast updated to version **11.7**. 
 4. Launch Xcode and accept any permission dialogues. You may have to put in your password. Xcode will also ask to “Install Additional Required Components” — click yes.
+
+Note: If you run into any issues throughout this step, make sure you've [update your OS](https://support.apple.com/guide/mac-help/get-macos-updates-mchlpx1065/mac) and have enough storage available to download XCode. The installation takes a long time, so let it sit for atleast a few hours before asking for help. 
 
 If you made it this far, your environment should be set up for the semester. Next, we’ll get started with Xcode playgrounds.
 
@@ -57,12 +57,11 @@ Great! You should now see a Playgrounds file with some boilerplate code:
 - Make constants for your name, favorite emoji, and penn id (replace the <...>):
 ```
 let name = "<YOUR NAME>"
-let emoji = "<EMOJI>"
 let pennId = <PENNID>
 ```
 - Add a line to print out your constants:
 ```
-print("Hello World \(emoji) My name is \(name) and my pennId is \(pennId)")
+print("Hello World! My name is \(name) and my pennId is \(pennId)")
 ```
 - Click the play button to compile and run.
 
