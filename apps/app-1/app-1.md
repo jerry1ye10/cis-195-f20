@@ -88,7 +88,7 @@ Skim through: [Functions](https://docs.swift.org/swift-book/LanguageGuide/Functi
 ### Exercise 5: Classes, Structs, and Initialization
 Skim through: [Classes and Structures](https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html#//apple_ref/doc/uid/TP40014097-CH13-ID82) and [Initialization](https://docs.swift.org/swift-book/LanguageGuide/Initialization.html#//apple_ref/doc/uid/TP40014097-CH18-ID203) (up to and including ‘Default Initializers’)
 
-- Add a single line comment: `// Exercises 6 and 7`
+- Add a single line comment: `// Exercises 5 and 6`
 - Create a **struct** named `Rectangle` with properties for length and width.
 - Create an instance of `Rectangle` by specifying values for length and width. This instance should be stored in a variable called `myRect`
 - Create a class named `Student`. The class should have a `name` variable of type String, a `school` variable of type Optional School, and a `major` variable of type `Major`, set to a default case of `undeclared`.
