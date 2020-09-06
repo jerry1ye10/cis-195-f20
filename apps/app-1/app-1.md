@@ -119,6 +119,6 @@ Keep in mind that when you start developing iOS apps, the [Swift documentation](
 
 
 
-**DON’T FORGET:** Zip together `answers.txt` with `app1_lastname_firstname.playground`, rename it to `app1_lastname_firstname.zip` and submit on Canvas.
+**DON’T FORGET:** Zip up `app1_lastname_firstname.playground`, rename it to `app1_lastname_firstname.zip` and submit on Canvas.
 
 
