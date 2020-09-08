@@ -6,6 +6,11 @@ Watch [this](https://www.youtube.com/watch?v=bZNAFkkUeKs&ab_channel=Devslopes) v
 
 Deadline: Friday, September 11th, 1:20 PM 
 
+<img src="https://github.com/jerry1ye10/cis-195-f20/blob/master/tutorials/tutorial-0/assets/pic1.png" width="300" height="500"/> <img src="https://github.com/jerry1ye10/cis-195-f20/blob/master/tutorials/tutorial-0/assets/pic2.png" width="300" height="500"/>
+
+
+
+
 ## Step 0: Create a new project
 * Open Xcode
 * Select "new project" from the start screen, or use File > New > Project in the menu bar
