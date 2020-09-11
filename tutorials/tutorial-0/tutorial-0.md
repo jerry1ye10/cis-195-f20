@@ -6,6 +6,11 @@ Watch [this](https://www.youtube.com/watch?v=bZNAFkkUeKs&ab_channel=Devslopes) v
 
 Deadline: Friday, September 11th, 1:20 PM 
 
+<img src="https://github.com/jerry1ye10/cis-195-f20/blob/master/tutorials/tutorial-0/assets/pic1.png" width="300" height="500"/> <img src="https://github.com/jerry1ye10/cis-195-f20/blob/master/tutorials/tutorial-0/assets/pic2.png" width="300" height="500"/>
+
+
+
+
 ## Step 0: Create a new project
 * Open Xcode
 * Select "new project" from the start screen, or use File > New > Project in the menu bar
@@ -18,3 +23,4 @@ Deadline: Friday, September 11th, 1:20 PM
 ## Step 2: Add the logic
 * Connect both your button and your label to your designated view controller 
 * Make your button change the `text` of the label whenever it's clicked. To change the text of the button run something like this: `button.setTitle("Turn Blue", for:.normal)`
+* For extra credit change the color of the `UILabel` to reflect the color of the word at the time
