@@ -1,12 +1,12 @@
 # Tutorial 1: Life Cycle & MVC
 
-Discuss this tutorial & get help on [Piazza](https://tiny.cc/cis195-piazza).
+Discuss this tutorial & get help on [Piazza](https://piazza.com/upenn/fall2020/cis195201/).
 Please leave feedback by creating a GitHub issue or by posting on Piazza.
 
 **Expected Duration:** < 1 hour
 
 
-**Deadline:** Thursday, September 12th at **1:20pm**
+**Deadline:** Friday, September 18th at **1:20pm**
 
 
 ⚠️ **Late submissions will be a zero starting with this Tutorial! Be sure to submit by the deadline.**
@@ -34,9 +34,9 @@ Watch from 0:37 to 11:58:
 [Stanford - Applying MVC](https://www.youtube.com/watch?v=w7a79cx3UaY&index=2&list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq)
 
 ### Do the following
-* Create a new `.txt` file named `tut1_lastname_firstname.txt`.
-* Summarize (in your own words) your interpretation of the roles of the Model, the View, and the Controller in an app’s structure. Write at least 1 paragraph (3-4 sentences) for each.
-* Think about the Tic Tac Toe assignment you'll be completing. What will the Model, View, and Controller be? How will communication take place among them? Will you have an isolated Model, or will you combine the Model and Controller (up to you)! Your answer should be about one paragraph.
+* Summarize (in your own words) your interpretation of the roles of the Model, the View, and the Controller in an app’s structure. 
+* Think about the Tic Tac Toe assignment you'll be completing. What will the Model, View, and Controller be? How will communication take place among them? Will you have an isolated Model, or will you combine the Model and Controller (up to you)! Your answer 
+* None of this will be graded/collected, but be prepared to talk about it in class and get cold called on. 
 
 ---
 
@@ -67,15 +67,16 @@ You should understand the following:
 * Open Xcode and create a new Single View Application. Name it whatever you like.
 * Open `ViewController.swift` and examine the methods that were automatically included in the file.
 * In your `.txt` file: which life cycle methods aren’t included in `ViewController.swift` by default?
-Add those missing methods to `ViewController.swift` and place a **breakpoint** and a **print statement** with the function signature inside of each one (e.g. `print(“viewDidLoad()”)`). Breakpoints can be placed by clicking the code line number where you want the program to pause. More information [here](https://medium.com/yay-its-erica/xcode-debugging-with-breakpoints-for-beginners-5b0d0a39d711).
+Add the missing lifecycle methods (not yet included) to `ViewController.swift` and place a **breakpoint** and a **print statement** with the function signature inside of each one (e.g. `print(“viewDidLoad()”)`). Breakpoints can be placed by clicking the code line number where you want the program to pause. More information [here](https://medium.com/yay-its-erica/xcode-debugging-with-breakpoints-for-beginners-5b0d0a39d711).
 * Run your app in a simulator, continue between the breakpoints and examine the console output.
-* In your .txt file: record the order in which the life cycle methods were called.
-* In your .txt file: explain the differences between each of the differing life cycle methods. Give an example of when you might use each one. (HINT: check out [this link](https://www.codementor.io/hemantkumar434/view-controller-lifecycle-ios-applications-7oyju9lp6) if you’re having trouble, which explains these methods in layman's terms.)
+* Record the order in which the life cycle methods were called.
+* Think about the differences between each of the differing life cycle methods. Give an example of when you might use each one. (HINT: check out [this link](https://www.codementor.io/hemantkumar434/view-controller-lifecycle-ios-applications-7oyju9lp6) if you’re having trouble, which explains these methods in layman's terms.)
+* Again, be prepared to discuss in class.
 
 ---
 
 # Submission
-* Submit `tut1_lastname_firstname.txt` to Canvas.
+* Zip up your tutorial and submit to Canvas.
 * **Don't forget - there is no late policy for tutorials. Submit by the deadline!**
 
 
