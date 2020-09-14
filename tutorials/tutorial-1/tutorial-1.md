@@ -20,7 +20,7 @@ Please leave feedback by creating a GitHub issue or by posting on Piazza.
 * Review Xcode and Interface Builder
 
 #### Where are we in the learning process?  
-During last class I introduced the Tic Tac Toe app. I also live coded a "Passcode" app, which has a very similar view structure. We saw how to connect our ViewController to the storyboard through the use of `IBOutlet`s and `IBAction`s. We also saw how to navigate the Xcode interface, and simulate apps on an iPhone simulator. In building Tic Tac Toe, you'll face questions about how your app should handle data, how user input should be handled, and more. This tutorial will formalize and solidify your understanding and help you answer these questions.
+During last class, I live coded a "Passcode" app, which has a very similar view structure to the tic-tac-toe you're doing for HW. We saw how to connect our ViewController to the storyboard through the use of `IBOutlet`s and `IBAction`s. We also saw how to navigate the Xcode interface, and simulate apps on an iPhone simulator. In building Tic Tac Toe, you'll face questions about how your app should handle data, how user input should be handled, and more. This tutorial will formalize and solidify your understanding and help you answer these questions.
 
 ---
 
@@ -35,7 +35,7 @@ Watch from 0:37 to 11:58:
 
 ### Do the following
 * Summarize (in your own words) your interpretation of the roles of the Model, the View, and the Controller in an app’s structure. 
-* Think about the Tic Tac Toe assignment you'll be completing. What will the Model, View, and Controller be? How will communication take place among them? Will you have an isolated Model, or will you combine the Model and Controller (up to you)! Your answer 
+* Think about the Tic Tac Toe assignment you'll be completing. What will the Model, View, and Controller be? How will communication take place among them? Will you have an isolated Model, or will you combine the Model and Controller (up to you)! 
 * None of this will be graded/collected, but be prepared to talk about it in class and get cold called on. 
 
 ---
@@ -66,8 +66,7 @@ You should understand the following:
 ### Do the following
 * Open Xcode and create a new Single View Application. Name it whatever you like.
 * Open `ViewController.swift` and examine the methods that were automatically included in the file.
-* In your `.txt` file: which life cycle methods aren’t included in `ViewController.swift` by default?
-Add the missing lifecycle methods (not yet included) to `ViewController.swift` and place a **breakpoint** and a **print statement** with the function signature inside of each one (e.g. `print(“viewDidLoad()”)`). Breakpoints can be placed by clicking the code line number where you want the program to pause. More information [here](https://medium.com/yay-its-erica/xcode-debugging-with-breakpoints-for-beginners-5b0d0a39d711).
+* Add the missing lifecycle methods (not yet included) to `ViewController.swift` and place a **breakpoint** and a **print statement** with the function signature inside of each one (e.g. `print(“viewDidLoad()”)`). Breakpoints can be placed by clicking the code line number where you want the program to pause. More information [here](https://medium.com/yay-its-erica/xcode-debugging-with-breakpoints-for-beginners-5b0d0a39d711).
 * Run your app in a simulator, continue between the breakpoints and examine the console output.
 * Record the order in which the life cycle methods were called.
 * Think about the differences between each of the differing life cycle methods. Give an example of when you might use each one. (HINT: check out [this link](https://www.codementor.io/hemantkumar434/view-controller-lifecycle-ios-applications-7oyju9lp6) if you’re having trouble, which explains these methods in layman's terms.)
