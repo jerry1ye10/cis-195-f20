@@ -172,14 +172,7 @@ Now that the image is a "template", xcode will render it as the button's tint co
 
 Using `.tintColor`, make your buttons colored `systemBlue` by default. When a button is part of a winning combination, make it `systemYellow`. When a button is part of a draw, make it `systemGray`.
 
-## Submission
-Zip your *entire project folder*. Do this in the Finder by finding the **highest level folder** named "app1_lastname_firstname" and zipping that. This folder should include **both** the .xcproject file and a subfolder also named "app1_lastname_firstname". 
-
-We need both of these, make sure to zip them all! Name the zipped file app1b_lastname_firstname.zip and submit it on canvas.
-
-Late submissions will be graded according to the policy described in Lecture 1. Please submit by the deadline!
-
 ---
 # End of Part B
-SUBMIT YOUR WORK TO THIS POINT to Github
+SUBMIT YOUR WORK to Github
 ---
