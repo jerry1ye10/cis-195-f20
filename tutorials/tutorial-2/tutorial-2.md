@@ -1,14 +1,9 @@
 # Tutorial 2: Table View and Delegation
 
-Discuss this tutorial & get help on [Piazza](tiny.cc/cis195-piazza).
+Discuss this tutorial & get help on Piazza.
 Please leave feedback by creating a GitHub issue or by posting on Piazza.
 
-**Expected Duration:** 1.5 hours
-
-**Deadline:** Thursday, February 13th at **4:20pm**
-
-
-⚠️ **Late submissions will be a zero! Be sure to submit by the deadline.**
+**Expected Duration:** 1 hour
 
 - - - -
 
@@ -35,9 +30,8 @@ The following video is from a lecture from the Stanford course on iOS programmin
 Watch: 
 From 9:33 to 46:53  [1.5x speed recommended](https://youtu.be/GIlsl-6TqmM?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai&t=573)
 
-Do the following:
-1.  Create a txt file called `tut2_lastname_firstname.txt`
-2.  In your own words, what are the three aspects to a protocol? 
+Think through the following questions:
+2.  What are the three aspects to a protocol? 
 3.  What is the equivalent structure in Java known as?
 4.  What is delegation, and how are protocols used in the delegation process? *Tip: Rewatch the video on MVC (From 5:29 to 8:38), which discusses how delegates and data sources fit into the MVC model.*
 
@@ -56,14 +50,9 @@ Read:
 2.  Skim through the table view delegate and datasource methods and their descriptions in the Apple Documentation for [UITableViewDelegate](https://developer.apple.com/documentation/uikit/uitableviewdelegate), and [UITableViewDataSource](https://developer.apple.com/documentation/uikit/uitableviewdatasource).
 
 Do the following:
-1. Adding to your `tut2_lastname_firstname.txt` file, note down 2 methods from UITableViewDelegate, and 3 from UITableViewDataSource, that you think are essential to create a fully functioning table view. If you think there are more methods that could be useful, note them down too!
-2. For each method, describe in detail (2-3 sentences) what it does.
+1. Note down methods from UITableViewDelegate, and 3 from UITableViewDataSource, that you think are essential to create a fully functioning table view. 
+2. Have a basic understanding of what each method does
 
 ---
-
-## Submission
-
-* Submit `tut2_lastname_firstname.txt` on Canvas.
-* **Don't forget - there is no late policy for tutorials. Submit by the deadline!**
 
 
