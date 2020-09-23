@@ -19,9 +19,7 @@ So far we've been focusing on Swift fundamentals and getting used to the basics 
 
 ## Protocols & Delegation
 
-Protocols and Delegation provide a structured method of communication by which a View can talk to its Controller. For example:
-
-![](/tutorials/tutorial-2/assets/fig1.png?raw=true)
+Protocols and Delegation provide a structured method of communication by which a View can talk to its Controller.
 
 Every option on your iPhone’s Settings app is a cell in a table view. When the user taps on the Wi-Fi cell, the table view needs to inform the Controller of this action, so that the Controller can present more options related to Wi-Fi. This form of communication from the View to the Controller occurs through Delegation.
 
