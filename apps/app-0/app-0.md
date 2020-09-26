@@ -1,4 +1,4 @@
-# App 0: Environment Setup
+# App 0: Environment Setup 
 
 Discuss this app & get help on Piazza. Click [here](piazza.com/upenn/fall2020/cis195201) to sign up. 
 
