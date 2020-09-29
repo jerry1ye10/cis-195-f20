@@ -1,4 +1,4 @@
-# Tutorial 4: Segues
+# Tutorial 3: Segues
 
 Please leave feedback by creating a GitHub issue or by posting on Piazza.
 
