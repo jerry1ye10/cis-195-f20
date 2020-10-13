@@ -1,13 +1,10 @@
 # App 5: Contacts
 
-Discuss this app & get help on [Piazza](tiny.cc/cis195-piazza).
-Please leave feedback by creating a GitHub issue or by posting on Piazza.
-Remember -- Stack Overflow and Google are encouraged, but DO NOT copy code. Ideas may be discussed with classmates, but don't work together.
 
 **Expected Duration:** 2+ hours.
 
 **Deadlines:**
-* Thursday, March 5th at **4:20pm**
+* October, 23rd at **1:20pm**
 
 - - - -
 
@@ -147,12 +144,4 @@ At this point the app should be fully functional. Tapping "Save" on the ACVC wit
 
 ## Bonus Steps
 These steps are NOT required and no extra credit is given. They are just ways you can improve the app if you'd like a little extra challenge!
-* Allow user to set a contact photo by tapping the UIImageView on DetailVC. You'll have to set up another protocol to alert CTVC of the model change.
 * Do more rigorous checking on the text field content to make sure the phone number and other fields are well-formed.
-
-## Submission
-Zip your *entire project folder*. Do this in the Finder by finding the **highest level folder** named "app5_lastname_firstname" and zipping that. This folder should include **both** the .xcproject file and a subfolder also named "app5_lastname_firstname". 
-
-We need both of these, make sure to zip them all! Name the zipped file app5_lastname_firstname.zip and submit it on canvas.
-
-Late submissions will be graded according to the policy described in Lecture 1. Please submit by the deadline!
