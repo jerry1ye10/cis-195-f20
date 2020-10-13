@@ -9,7 +9,7 @@ While the last app had 2 parts, this app only has 1.
 **Expected Duration:** 2+ hours.
 
 **Deadlines:**
-* Thursday, February 20th at **4:20pm**
+* Thursday, October 2nd at **1:20pm**
 
 - - - -
 
@@ -105,10 +105,3 @@ At this point the following should be possible:
 * We're only storing your model in local memory, so it will be deallocated with all data lost when the app is killed. Saving data between app sessions requires an extra step - we'll cover this later in the course.
 * There are many features of table views we don't have to time to cover - for example: drag-to-rearrange functionality. I recommend exploring the UITableView documentation if you're interested in these extra features.
 * We implemented swipe-to-delete, but in fact you can generalize this functionality into swipe-to-do-anything. You can provide your own colors, titles, and actions. This can be seen in the iOS mail app.
-
-## Submission
-Zip your *entire project folder*. Do this in the Finder by finding the **highest level folder** named "app-3-starter" and zipping that. This folder should include **both** the .xcproject file and all subfolders 
-
-Name the zipped file app3_lastname_firstname.zip and submit it on canvas.
-
-Late submissions will be graded according to the policy described in Lecture 1. Please submit by the deadline!
