@@ -13,6 +13,7 @@
 		F56D8AE7254C8E2A007B31A4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F56D8AE5254C8E2A007B31A4 /* Main.storyboard */; };
 		F56D8AE9254C8E2C007B31A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F56D8AE8254C8E2C007B31A4 /* Assets.xcassets */; };
 		F56D8AEC254C8E2C007B31A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F56D8AEA254C8E2C007B31A4 /* LaunchScreen.storyboard */; };
+		F56D8AF4254C8F18007B31A4 /* parksData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F56D8AF3254C8F18007B31A4 /* parksData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F56D8AE8254C8E2C007B31A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F56D8AEB254C8E2C007B31A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F56D8AED254C8E2C007B31A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F56D8AF3254C8F18007B31A4 /* parksData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parksData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F56D8ADF254C8E2A007B31A4 /* AppDelegate.swift */,
 				F56D8AE1254C8E2A007B31A4 /* SceneDelegate.swift */,
 				F56D8AE3254C8E2A007B31A4 /* ViewController.swift */,
+				F56D8AF3254C8F18007B31A4 /* parksData.swift */,
 				F56D8AE5254C8E2A007B31A4 /* Main.storyboard */,
 				F56D8AE8254C8E2C007B31A4 /* Assets.xcassets */,
 				F56D8AEA254C8E2C007B31A4 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F56D8AE4254C8E2A007B31A4 /* ViewController.swift in Sources */,
+				F56D8AF4254C8F18007B31A4 /* parksData.swift in Sources */,
 				F56D8AE0254C8E2A007B31A4 /* AppDelegate.swift in Sources */,
 				F56D8AE2254C8E2A007B31A4 /* SceneDelegate.swift in Sources */,
 			);
