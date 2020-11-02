@@ -17,7 +17,7 @@ Remember -- Stack Overflow and Google are strongly encouraged. Feel free to look
 * Use Swift Package Manager
 * Gain autonomy in making apps
 
-This app will have less guided instruction than previous ones; the final app will have even less. This is intended to prepare you for making a final project all by yourself.
+This app will have less guided instruction than previous ones; the final app will have even less. This is intended to prepare you for making a final project all by yourself. It's still extremely similar to what we did in class, so it shouldn't be too challenging 
 
 ## Topics
 * Segues
@@ -71,12 +71,13 @@ You can complete these requirements roughly in order.
     - Use a non-editable `UITextView` for the description
 * All images are set (and automatically cached) using [Kingfisher](https://github.com/onevcat/Kingfisher), which should be installed using [Swift Package Manager](https://github.com/onevcat/Kingfisher/wiki/Installation-Guide#swift-package-manager).
     - You should see the images load faster on subsequent app launches
-* All elements (including cells) must resize appropriately for different screen sizes
-    - You may use either Autolayout or Autoresizing Masks
 * No UI updates are performed on a background thread
 * The layout and look of the app roughly matches the screenshots.
 
 Hint: your UI structure will look something like this:
 
 ![](/apps/app-5/assets/fig3.png?raw=true)
+
+## Part Two
+- TBD: Connect your API data to a firebase database and set up a UI for users to edit park descriptions 
 
