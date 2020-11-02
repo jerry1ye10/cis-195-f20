@@ -36,7 +36,7 @@ Images should be loaded "asynchronously". They will pop in as they are loaded.
 
 Tapping on a cell brings the user to another screen, which contains a large version of the same photo (same url) as well as more information about the park.
 
-![](/apps/app-6/assets/fig2.png?raw=true)
+![](/apps/app-5/assets/fig2.png?raw=true)
 
 ## Getting Started
 * Create an Xcode project named "NationalParks". You should use Storyboards, not SwiftUI
@@ -78,5 +78,5 @@ You can complete these requirements roughly in order.
 
 Hint: your UI structure will look something like this:
 
-![](/apps/app-6/assets/fig3.png?raw=true)
+![](/apps/app-5/assets/fig3.png?raw=true)
 
