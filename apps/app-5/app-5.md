@@ -79,5 +79,6 @@ Hint: your UI structure will look something like this:
 ![](/apps/app-5/assets/fig3.png?raw=true)
 
 ## Part Two
-- TBD: Connect your API data to a firebase database and set up a UI for users to edit park descriptions 
+- Write all of the API data into a firebase database 
+- Comment out all of your code that makes the API call and instead read the data from your firebase database 
 
